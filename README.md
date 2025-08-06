@@ -20,6 +20,7 @@ Cloudinary – Image storage and CDN
 Firebase – Authentication & Firestore (No Firebase Storage used)
 Provider – State management
 Stripe – Subscription and payment (optional)
+
 🚀 How to Use
 Clone the repo.
 Configure Firebase (Auth + Firestore).
