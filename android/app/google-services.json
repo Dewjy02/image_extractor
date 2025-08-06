@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254008608389",
+    "project_id": "image-text-reader-aa9c5",
+    "storage_bucket": "image-text-reader-aa9c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254008608389:android:e45c4d60eef640ee720bec",
+        "android_client_info": {
+          "package_name": "com.example.image_text_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOQVKRQUUO_pqMpz1H_jq4nbgHXmPWY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
